@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appscrip-task-Vasudev-Naik/static/css/main.f58c3b59.css",
+    "main.js": "/appscrip-task-Vasudev-Naik/static/js/main.4d264127.js",
+    "index.html": "/appscrip-task-Vasudev-Naik/index.html",
+    "main.f58c3b59.css.map": "/appscrip-task-Vasudev-Naik/static/css/main.f58c3b59.css.map",
+    "main.4d264127.js.map": "/appscrip-task-Vasudev-Naik/static/js/main.4d264127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58c3b59.css",
+    "static/js/main.4d264127.js"
+  ]
+}
